@@ -72,12 +72,11 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-####
 
 
 <div align="center">
-<a href="https://github.com/iamhasibulhasan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraihan34988&theme=github_dark&hide_border=true" width="70%"  alt="Raihanul-Profile"/></a>
- <a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdraihan34988&theme=github_dark&utcOffset=6" width="30%" alt="Raihanul-Profile"/></a>
+<a href="https://github.com/iamhasibulhasan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraihan34988&theme=github_dark&hide_border=true" width="55%"  alt="Raihanul-Profile"/></a>
+ <a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdraihan34988&theme=github_dark&utcOffset=6" width="35%" alt="Raihanul-Profile"/></a>
 </div>
 <div align="center">
     <a href="https://mdraihan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>

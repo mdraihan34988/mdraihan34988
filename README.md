@@ -72,10 +72,10 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-<p align="center">
+<div align="center">
 <a href="https://github.com/iamhasibulhasan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraihan34988&theme=github_dark&hide_border=true"  alt="Raihanul-Profile"/></a>
  <a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdraihan34988&theme=github_dark&utcOffset=6" alt="Raihanul-Profile"/></a>
-</p>
+</div>
 <div align="center">
     <a href="https://mdraihan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/mdraihanulislam/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"  target="_blank" alt="Linkedin"></a>

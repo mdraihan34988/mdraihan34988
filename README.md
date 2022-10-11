@@ -42,11 +42,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio-777BB4?style=flat&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PhpStorm-D545F1?style=flat&logo=phpstorm&logoColor=white"/>
     <a href=""><img src="https://img.shields.io/badge/wakaTime-CCC?style=flat&logo=wakatime&logoColor=black"  target="_blank" alt="WakaTime"></a>
+<a href="https://github.com/mdraihan34988">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdraihan34988&theme=dark&hide_border=true" width="49.5%">
+    </a>
 -->
 #### Currently working with
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![MSSQL Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MSSQL Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=git&logoColor=white)](#)  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
 
 
 ### Projects Currently working with
@@ -75,10 +78,28 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<a href="https://github.com/iamhasibulhasan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraihan34988&theme=github_dark&hide_border=true" width="55%"  alt="Raihanul-Profile"/></a>
- <a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdraihan34988&theme=github_dark&utcOffset=6" width="35%" alt="Raihanul-Profile"/></a>
+<a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraihan34988&theme=github_dark&hide_border=true" width="65%"  alt="Raihanul-Profile"/></a>
+ <a href="https://github.com/mdraihan34988"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdraihan34988&theme=github_dark&utcOffset=6" width="32%" alt="Raihanul-Profile"/></a>
 </div>
+
 <div align="center">
+    <a height="180em" href="https://github.com/mdraihan34988">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdraihan34988&theme=dark&show_icons=true&hide_border=true&count_private=true" >
+    </a>
+ </div>
+ <div align="center">
+ <a height="180em" href="https://github.com/mdraihan34988">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdraihan34988&theme=dark&hide_border=true">
+    </a>
+    <a height="180em" href="https://github.com/mdraihan34988">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihan34988&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" >
+    </a>
+    
+
+</div>
+
+<br/>
+<div align="center"  style="margin-top:20px">
     <a href="https://mdraihan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/mdraihanulislam/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"  target="_blank" alt="Linkedin"></a>
     <a href="https://github.com/mdraihan34988"><img src="https://img.shields.io/badge/github-000?style=flat&logo=github&logoColor=white"  target="_blank" alt="GitHub"></a>

@@ -5,7 +5,7 @@ I am ✨ Md. Raihanul Islam ✨ a Full Stack Web Application Developer from  Ban
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Javascript, ReactJS, NextJS, NodeJS, Laravel
+- 🔭 I’m currently working on Javascript, ReactJS, NextJS, NodeJS, Laravel, MSSQL
 - 🌱 I’m currently learning Strapy, Docker, Google Cloud run, Typescript
 - 📫 How to reach me: <a href="https://mdraihan.netlify.app/">Explore Me</a> (mdraihanulislam716@gmail.com)
 - 😄 Most used line of code: :computer:  `console.log("hello world")`
@@ -17,3 +17,22 @@ Here are some ideas to get you started:
 #### Currently working with
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
+### Projects Currently working with
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+     <td><b>Technologies</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.filemyvisa.com/" target="_blank">File My Visa</a></td>
+      <td>Website for filing USA immigration related applications.</td>
+     <td>[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)</td>
+    </tr>
+  </tbody>
+</table>

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://www.filemyvisa.com/" target="_blank">File My Visa</a></td>
       <td>Website for filing USA immigration related applications.</td>
-     <td>[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)</td>
+     <td>NextJS, NodeJS, MSSQL, Docker</td>
     </tr>
   </tbody>
 </table>

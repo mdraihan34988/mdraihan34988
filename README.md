@@ -1,6 +1,3 @@
-<p align="center" style="margin-top:10px">
-<a href="https://github.com/mdraihan34988"><img style="width:20%;border-radius:80%" src="assets/me.jpg" alt="Raihanul" /></a>
- </p>
 ### Hi there 👋
 
 
@@ -44,6 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-2CA5E0?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-777BB4?style=flat&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PhpStorm-D545F1?style=flat&logo=phpstorm&logoColor=white"/>
+    <a href=""><img src="https://img.shields.io/badge/wakaTime-CCC?style=flat&logo=wakatime&logoColor=black"  target="_blank" alt="WakaTime"></a>
 -->
 #### Currently working with
 
@@ -74,3 +72,13 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+<div align="center">
+    <a href="https://mdraihan.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white"  target="_blank" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/mdraihanulislam/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"  target="_blank" alt="Linkedin"></a>
+    <a href="https://github.com/mdraihan34988"><img src="https://img.shields.io/badge/github-000?style=flat&logo=github&logoColor=white"  target="_blank" alt="GitHub"></a>
+    <a href="https://www.instagram.com/raihan7219"><img src="https://img.shields.io/badge/instagram-F56040?style=flat&logo=instagram&logoColor=white"  target="_blank" alt="Instagram"></a>
+    <a href="https://www.facebook.com/raihanulmd/"><img src="https://img.shields.io/badge/facebook-025FB1?style=flat&logo=facebook&logoColor=white"  target="_blank" alt="Facebook"></a>
+    <a href="mailto:mdraihanulislam716@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white"  target="_blank" alt="Gmail"></a>
+
+</div>

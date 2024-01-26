@@ -63,6 +63,26 @@ Here are some ideas to get you started:
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td><a href="https://twtor.xyz/" target="_blank">Twtor</a></td>
+      <td>Online learning platform.</td>
+     <td>NextJS, Laravel, Mysql, Docker</td>
+    </tr>
+   <tr>
+      <td><a href="https://admin.twtor.xyz/" target="_blank">Twtor admin panel</a></td>
+      <td>Website for managing <a href="https://admin.twtor.xyz/" target="_blank">Twtor/a>.</td>
+     <td>ReactJS, Laravel, Mysql, Docker</td>
+    </tr>
+   <tr>
+      <td><a href="https://truehealthbooster.com/" target="_blank">True Health Booster</a></td>
+      <td>Online Natural supplement selling Platform.</td>
+      <td>Laravel, mysql</td>
+    </tr>
+    <tr>
+      <td><a href="https://epharma.com.bd/" target="_blank">epharma</a></td>
+      <td>Online Pharmacy and Healthcare Platform.</td>
+      <td>Laravel, mysql</td>
+    </tr>
     <tr>
       <td><a href="https://www.filemyvisa.com/" target="_blank">File My Visa</a></td>
       <td>Website for filing USA immigration related applications.</td>

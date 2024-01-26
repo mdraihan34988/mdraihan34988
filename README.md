@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Javascript, ReactJS, NextJS, NodeJS, Laravel, MSSQL
 - 🌱 I’m currently learning Strapy, Docker, Google Cloud run, Typescript, Redux
-- 📫 How to reach me: <a href="https://mdraihan.netlify.app/">Explore Me</a> (mdraihanulislam716@gmail.com)
+- 📫 How to reach me: <a href="https://mdraihan.netlify.app/" target="_blank">Explore Me</a> (mdraihanulislam716@gmail.com)
 - 😄 Most used line of code: :computer:  `console.log("hello world")`
 - ⚡ Fun fact: Football and Cricket lover :hearts: &emsp;
  <!--

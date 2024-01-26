@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     </tr>
    <tr>
       <td><a href="https://admin.twtor.xyz/" target="_blank">Twtor admin panel</a></td>
-      <td>Website for managing <a href="https://admin.twtor.xyz/" target="_blank">Twtor/a>.</td>
+      <td>Website for managing <a href="https://admin.twtor.xyz/" target="_blank">Twtor</a>.</td>
      <td>ReactJS, Laravel, Mysql, Docker</td>
     </tr>
    <tr>
